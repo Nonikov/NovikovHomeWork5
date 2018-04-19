@@ -1,0 +1,7 @@
+c:\users\user\source\repos\HomeWork5\HomeWork5\obj\Debug\Fraction.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\HomeWork5\HomeWork5\obj\Debug\Fraction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWork5\HomeWork5\bin\Debug\HomeWork5.exe.config
+C:\Users\User\source\repos\HomeWork5\HomeWork5\bin\Debug\HomeWork5.exe
+C:\Users\User\source\repos\HomeWork5\HomeWork5\bin\Debug\HomeWork5.pdb
+C:\Users\User\source\repos\HomeWork5\HomeWork5\obj\Debug\HomeWork5.exe
+C:\Users\User\source\repos\HomeWork5\HomeWork5\obj\Debug\HomeWork5.pdb

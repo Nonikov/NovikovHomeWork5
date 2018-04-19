@@ -1,0 +1,7 @@
+c:\users\user\source\repos\HomeWork5\Complex\bin\Debug\Complex.exe.config
+c:\users\user\source\repos\HomeWork5\Complex\bin\Debug\Complex.exe
+c:\users\user\source\repos\HomeWork5\Complex\bin\Debug\Complex.pdb
+c:\users\user\source\repos\HomeWork5\Complex\obj\Debug\Complex.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\HomeWork5\Complex\obj\Debug\Complex.exe
+c:\users\user\source\repos\HomeWork5\Complex\obj\Debug\Complex.pdb
+C:\Users\User\source\repos\HomeWork5\Complex\obj\Debug\Complex.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\user\source\repos\HomeWork5\Matrix\bin\Debug\Matrix.exe.config
+c:\users\user\source\repos\HomeWork5\Matrix\bin\Debug\Matrix.exe
+c:\users\user\source\repos\HomeWork5\Matrix\bin\Debug\Matrix.pdb
+c:\users\user\source\repos\HomeWork5\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\HomeWork5\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\HomeWork5\Matrix\obj\Debug\Matrix.exe
+c:\users\user\source\repos\HomeWork5\Matrix\obj\Debug\Matrix.pdb
